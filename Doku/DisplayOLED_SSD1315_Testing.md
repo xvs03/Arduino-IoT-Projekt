@@ -12,7 +12,7 @@ Buy at Aliexpress: https://de.aliexpress.com/item/32896971385.html?spm=a2g0o.ord
 ##### GND = Ground
 ##### VDD = Operating voltage 3,3-5V
 ##### SCK = I²C Clock > Ardunino UNO A5
-##### SDA = I²C Daten > Ardunino UNO A4
+##### SDA = I²C Data > Ardunino UNO A4
 #
 ### Connection Arduino UNO
 ![UNO](../images/OLEDAnschlussArdunioUNO.jpg)
