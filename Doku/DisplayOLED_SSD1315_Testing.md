@@ -25,7 +25,7 @@ Buy at Aliexpress: https://de.aliexpress.com/item/32896971385.html?spm=a2g0o.ord
 #
 ## Arduino IDE 2 Sketch for Displaytest
 #
-##### Bibliothek: **U8g2** von oliver herunterladen
+##### Download library **"U8g2"** from oliver
 #
 #### Create Sketch:
 
